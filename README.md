@@ -1,7 +1,7 @@
 # patatap
 A JavaScript based project.😄
 
-Clone the project and then try to press any key, A to Z, and turn up speakers!
+Clone the project and then try to press any key from A to Z, and turn up the speakers!
 
 Created in the Full stack bootcamp
-Used: Paper.js Howler.js
+What I used: Paper.js Howler.js
